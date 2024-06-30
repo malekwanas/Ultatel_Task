@@ -1,0 +1,6 @@
+@Ultatel_Task_HostAddress = http://localhost:5192
+
+GET {{Ultatel_Task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
